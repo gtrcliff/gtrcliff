@@ -100,13 +100,7 @@ Security and Penetration Testing.
 
 
 
-![Cliff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtrcliff&show_icons=true&theme=radical&hide_border=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrcliff&layout=compact&theme=radical&hide_border=true)
+![stats](https://readme-stats-one-delta.vercel.app/api?username=gtrcliff&theme=radical)
 ---
 
 ## 📂 Featured Projects
