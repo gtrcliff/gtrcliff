@@ -1,4 +1,4 @@
-# Hi there, I'm Cliff Cheruiyot 👋
+# Hi there, I'm Cliff Cheruiyot.
 
 Cybersecurity Professional · Penetration Tester · Red Team Aspirant · Nairobi, Kenya 🇰🇪
 
