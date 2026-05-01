@@ -79,13 +79,10 @@ Security and Penetration Testing.
 | HTB CPTS | 🔄 In Progress |
 
 ---
-
 ## 📊 GitHub Stats
 
-
-
-![stats](https://readme-stats-one-delta.vercel.app/api?username=gtrcliff&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=gtrcliff&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrcliff&layout=compact&theme=radical&hide_border=true" width="48%" />
 ---
 
 ## 🔥 Streak
