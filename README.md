@@ -128,24 +128,16 @@ Security and Penetration Testing.
 ## 📫 Connect With Me
 
 [
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ](https://www.linkedin.com/in/Cliff-Cheruiyot/)
 [
-
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
 ](https://twitter.com/Gtr_Cliff)
 [
-
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
 ](https://app.hackthebox.com/profile/Dev0e)
 [
-
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
 ](https://tryhackme.com/p/GtrCliff)
 <!--
 **gtrcliff/gtrcliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
