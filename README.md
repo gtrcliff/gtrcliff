@@ -82,15 +82,6 @@ Security and Penetration Testing.
 ## 📊 Stats & Activity
 
 [
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GtrCliff.png)
-
-](https://tryhackme.com/p/GtrCliff)
----
-
-## 🔥 Streak
-
-[
 ![GitHub Streak](https://streak-stats.demolab.com?user=gtrcliff&theme=radical)
 ](https://github.com/gtrcliff)
 ---
