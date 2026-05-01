@@ -1,6 +1,6 @@
    # Hi there, I'm Cliff Cheruiyot.
 
-Cybersecurity Professional · Penetration Tester · Red Team Aspirant · Nairobi, Kenya 🇰🇪
+Jr. Penetration Tester · Bug Hunter · Blockchain Security · Nairobi, Kenya 🇰🇪
 
 [Portfolio](#) | [LinkedIn](#) | [Twitter/X](#)
 
