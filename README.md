@@ -96,11 +96,11 @@ Security and Penetration Testing.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Streak
 
-
-
-![stats](https://readme-stats-one-delta.vercel.app/api?username=gtrcliff&theme=radical)
+[
+![GitHub Streak](https://streak-stats.demolab.com?user=gtrcliff&theme=radical)
+](https://github.com/gtrcliff)
 ---
 
 ## 📂 Featured Projects
