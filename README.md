@@ -79,17 +79,13 @@ Security and Penetration Testing.
 | HTB CPTS | 🔄 In Progress |
 
 ---
-## 📊 GitHub Stats
+## 📊 Stats & Activity
 
+[
 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GtrCliff.png)
 
-![Cliff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtrcliff&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrcliff&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+](https://tryhackme.com/p/GtrCliff)
 ---
 
 ## 🔥 Streak
