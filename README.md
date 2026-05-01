@@ -84,15 +84,7 @@ Security and Penetration Testing.
 
 
 
-![Cliff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
-
-
+![stats](https://readme-stats-one-delta.vercel.app/api?username=gtrcliff&theme=radical)
 
 ---
 
